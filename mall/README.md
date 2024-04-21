@@ -1,5 +1,11 @@
-node -v
-v18.19.1
+## node -version<br>
 
-react -v
+18.19.1
+
+## react -v<br>
+
 18.2.0
+
+## start <br>
+
+npm start
